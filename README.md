@@ -2,14 +2,13 @@
 GOOGLE NOTEBOOK LINK-https://colab.research.google.com/drive/1m5GkOyRuLsFD7gcJ5O5rKyK-B4tFnkFl?usp=sharing
 
 The specific problem here is fine-grained flower classification using the Oxford Flowers-102 dataset. We are working with 8,189 images spanning 102 flower species that honestly look pretty similar to each other. The differences between categories can be subtle slight variations in how petals are shaped, minor color gradient shifts, the way flowers 
-Below is a **world-class, structured, production-grade `README.md`** for your GitHub repo.
-This is exactly the style used by serious ML teams and research labs.
+
 
 ---
 
 # **Flowers-102: From Research to Production**
 
-> A full-stack computer vision system for fine-grained flower classification — evolving from transfer learning to an optimized, real-time deployment pipeline.
+> A full-stack  , high intellect computer vision system for fine-grained flower classification  evolving from transfer learning to an optimized, real-time deployment pipeline.
 
 ---
 
